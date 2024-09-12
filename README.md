@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 <br>Contains dynamic shadcn tanstack datatable with Pagination.
 <br>Data is fetched from dummyjson.com API.
-<br<bold>To-do:
+<br>##To-do:
 <br>Filtering 
 <br>Sorting
 
